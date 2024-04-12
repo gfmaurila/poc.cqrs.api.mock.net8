@@ -4,6 +4,8 @@
 
 # Arquitetura
 - Minimal API
+- ![image](https://github.com/gfmaurila/poc.cqrs.api.mock.net8/assets/5544035/5d4b23a7-eff4-4c38-87a3-9d88f1aa47e5)
+
 
 ## poc.cqrs.api.mock.net8
 - Simula a funcionalidade de serviços de email e mensagens, como SendGridEmail e Twilio.
